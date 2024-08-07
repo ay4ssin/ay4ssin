@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">A passionate software engineering student based in the UK</h3>
 
+- 🔭 i’m currently working on [a book recommendation system](https://github.com/ay4ssin/book-recommendation-system)
+
+- 🌱 i’m currently learning **react, node.js and using apis**
+
+- 🤝 i’m looking for help with [my bank management desktop app](https://github.com/ay4ssin/banking-app/)
+
+- 👨‍💻 All of my projects are available at [https://ayayassin.netlify.app/](https://ayayassin.netlify.app/)
+
+- 💬 Ask me about **java and python**
+
+- 📫 How to reach me **ay4ssin@gmail.com**
+
+- 📄 Know about my experiences [https://ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
+
+- ⚡ Fun fact **i really love strawberries**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17063221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17063221" height="30" width="40" /></a>

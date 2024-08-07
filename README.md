@@ -7,15 +7,15 @@
 
 - 🤝 i’m looking for help with [my bank management desktop app](https://github.com/ay4ssin/banking-app/)
 
-- 👨‍💻 All of my projects are available at [https://ayayassin.netlify.app/](https://ayayassin.netlify.app/)
+- 👨‍💻 all of my projects are available at [https://ayayassin.netlify.app/](https://ayayassin.netlify.app/)
 
-- 💬 Ask me about **java and python**
+- 💬 ask me about **java and python**
 
-- 📫 How to reach me **ay4ssin@gmail.com**
+- 📫 how to reach me **[mailto:ay4ssin@gmail.com]ay4ssin@gmail.com**
 
-- 📄 Know about my experiences [https://ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
+- 📄 know about my experiences [https://ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
 
-- ⚡ Fun fact **i really love strawberries**
+- ⚡ fun fact **i really love strawberries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

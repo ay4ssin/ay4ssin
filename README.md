@@ -11,7 +11,7 @@
 
 - 💬 ask me about **java and python**
 
-- 📫 how to reach me {mailto:ay4ssin@gmail.com}**ay4ssin@gmail.com**
+- 📫 how to reach me **ay4ssin@gmail.com**
 
 - 📄 know about my experiences [https://ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
 

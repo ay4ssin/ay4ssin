@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aya</h1>
-<h3 align="center">A passionate software engineering student based in the UK</h3>
+<h1 align="center">hello, i'm aya <3</h1>
+<h3 align="center">a passionate software engineering student based in the UK</h3>
 
 - 🔭 i’m currently working on [a book recommendation system](https://github.com/ay4ssin/book-recommendation-system)
 

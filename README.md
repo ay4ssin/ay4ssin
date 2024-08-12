@@ -1,19 +1,19 @@
 <h1 align="center">hello, i'm aya <3</h1>
 <h3 align="center">a passionate software engineering student based in the UK</h3>
 
-- 🔭 i’m currently working on [a book recommendation system](https://github.com/ay4ssin/book-recommendation-system)
-
 - 🌱 i’m currently learning **react, node.js and using apis**
-
-- 🤝 i’m looking for help with [my bank management desktop app](https://github.com/ay4ssin/banking-app/)
-
-- 👨‍💻 all of my projects are available at [https://ayayassin.netlify.app/](https://ayayassin.netlify.app/)
 
 - 💬 ask me about **java and python**
 
 - 📫 how to reach me **ay4ssin@gmail.com**
 
-- 📄 know about my experiences [https://ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
+- 🔭 i’m currently working on [a book recommendation system](https://github.com/ay4ssin/book-recommendation-system)
+
+- 🤝 i’m looking for help with [my bank management desktop app](https://github.com/ay4ssin/banking-app/)
+
+- 👨‍💻 all of my projects are available at [ayayassin.vercel.app/](https://ayayassin.vercell.app/)
+
+- 📄 know about my experiences at [ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
 
 - ⚡ fun fact **i really love strawberries**
 

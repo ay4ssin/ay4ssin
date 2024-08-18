@@ -5,7 +5,7 @@
 
 - 💬 ask me about **java and python**
 
-- 📫 how to reach me **ay4ssin@gmail.com**
+- 📫 how to reach me **ayazaid30102004@gmail.com**
 
 - 🔭 i’m currently working on [a book recommendation system](https://github.com/ay4ssin/book-recommendation-system)
 

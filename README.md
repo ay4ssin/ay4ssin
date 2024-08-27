@@ -7,11 +7,11 @@
 
 - 📫 how to reach me **ayazaid30102004@gmail.com**
 
-- 🔭 i’m currently working on [a book recommendation system](https://github.com/ay4ssin/book-recommendation-system)
+- 🔭 i’m currently working on [a recipe recommendation system](https://github.com/ay4ssin/ai-recipe-recommender)
 
 - 🤝 i’m looking for help with [my bank management desktop app](https://github.com/ay4ssin/banking-app/)
 
-- 👨‍💻 all of my projects are available at [ayayassin.vercel.app/](https://ayayassin.vercell.app/)
+- 👨‍💻 all of my projects are available at [ayayassin.vercel.app/](https://ayayassin.vercel.app/)
 
 - 📄 know about my experiences at [ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
 

@@ -9,7 +9,7 @@
 
 - 🔭 i’m currently working on [a recipe recommendation system](https://github.com/ay4ssin/ai-recipe-recommender)
 
-- 🤝 i’m looking for help with [my bank management desktop app](https://github.com/ay4ssin/banking-app/)
+- 🤝 i’m looking for help with my [ai media recommender web app](https://github.com/ay4ssin/ai-media-recommender)
 
 - 👨‍💻 all of my projects are available at [ayayassin.vercel.app/](https://ayayassin.vercel.app/)
 

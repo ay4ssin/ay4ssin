@@ -1,9 +1,9 @@
 <h1 align="center">hello, i'm aya <3</h1>
-<h3 align="center">a passionate software engineering student based in the UK</h3>
+<h3 align="center">a passionate software engineering student and systems development engineer intern based in the UK</h3>
 
-- 🌱 i’m currently learning **react, node.js and using apis**
+- 🌱 i’m currently learning **AWS and all that comes with it**
 
-- 💬 ask me about **java and python**
+- 💬 ask me about **java, python and javascript**
 
 - 🔭 i’m currently working on [a recipe recommendation system](https://github.com/ay4ssin/ai-recipe-recommender)
 

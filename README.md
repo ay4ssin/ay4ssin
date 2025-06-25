@@ -1,6 +1,5 @@
 <h1 align="center">hello, i'm aya <3</h1>
 <h3 align="center">a passionate software engineering student and systems development engineer intern based in the UK</h3>
-[ayayassin.vercel.app](https://ayayassin.vercel.app/#experience)
 
 - 🌱 i’m currently learning **AWS and all that comes with it**
 

@@ -1,14 +1,14 @@
 <h1 align="center">hello, i'm aya <3</h1>
-<h3 align="center">[my portfolio](https://ayayassin.vercel.app/)</h3>
 <h3 align="center">a passionate software engineering student and systems development engineer intern based in the UK</h3>
+[ayayassin.vercel.app](https://ayayassin.vercel.app/#experience)
 
 - 🌱 i’m currently learning **AWS and all that comes with it**
 
 - 💬 ask me about **java, python and javascript**
 
-- 👨‍💻 all of my projects are available at [ayayassin.vercel.app/](https://ayayassin.vercel.app/#projects)
+- 👨‍💻 all of my projects are available at [ayayassin.vercel.app](https://ayayassin.vercel.app/#projects)
 
-- 📄 know about my experiences at [ayayassin.vercel.app/](https://ayayassin.vercel.app/#experience)
+- 📄 know about my experiences at [ayayassin.vercel.app](https://ayayassin.vercel.app/#experience)
 
 - ⚡ fun fact about me is that **i really love strawberries**
 

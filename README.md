@@ -1,17 +1,14 @@
 <h1 align="center">hello, i'm aya <3</h1>
+<h3 align="center">[my portfolio](https://ayayassin.vercel.app/)</h3>
 <h3 align="center">a passionate software engineering student and systems development engineer intern based in the UK</h3>
 
 - 🌱 i’m currently learning **AWS and all that comes with it**
 
 - 💬 ask me about **java, python and javascript**
 
-- 🔭 i’m currently working on [a recipe recommendation system](https://github.com/ay4ssin/ai-recipe-recommender)
+- 👨‍💻 all of my projects are available at [ayayassin.vercel.app/](https://ayayassin.vercel.app/#projects)
 
-- 🤝 i’m looking for help with my [ai media recommender web app](https://github.com/ay4ssin/ai-media-recommender)
-
-- 👨‍💻 all of my projects are available at [ayayassin.vercel.app/](https://ayayassin.vercel.app/)
-
-- 📄 know about my experiences at [ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
+- 📄 know about my experiences at [ayayassin.vercel.app/](https://ayayassin.vercel.app/#experience)
 
 - ⚡ fun fact about me is that **i really love strawberries**
 

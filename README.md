@@ -13,7 +13,7 @@
 
 - 📄 know about my experiences at [ayayassin.tiiny.site/](https://ayayassin.tiiny.site/)
 
-- ⚡ fun fact: **i really love strawberries**
+- ⚡ fun fact about me is that **i really love strawberries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

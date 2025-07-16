@@ -3,7 +3,7 @@
 
 - 🌱 i’m currently learning **AWS and all that comes with it**
 
-- 💬 ask me about anything on [ayayassin.vercel.app/projects](https://ayayassin.vercel.app/#projects)
+- 💬 ask me about anything on [ayayassin.vercel.app/skills](https://ayayassin.vercel.app/#skills)
 
 - 👨‍💻 all of my projects are available at [ayayassin.vercel.app/projects](https://ayayassin.vercel.app/#projects)
 

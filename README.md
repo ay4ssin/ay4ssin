@@ -3,11 +3,11 @@
 
 - 🌱 i’m currently learning **AWS and all that comes with it**
 
-- 💬 ask me about **java, python and javascript**
+- 💬 ask me about anything on [ayayassin.vercel.app/projects](https://ayayassin.vercel.app/#projects)
 
-- 👨‍💻 all of my projects are available at [ayayassin.vercel.app](https://ayayassin.vercel.app/#projects)
+- 👨‍💻 all of my projects are available at [ayayassin.vercel.app/projects](https://ayayassin.vercel.app/#projects)
 
-- 📄 know about my experiences at [ayayassin.vercel.app](https://ayayassin.vercel.app/#experience)
+- 📄 know about my experiences at [ayayassin.vercel.app/experience](https://ayayassin.vercel.app/#experience)
 
 - ⚡ fun fact about me is that **i really love strawberries**
 
